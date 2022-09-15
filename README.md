@@ -7,10 +7,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Navneet</h1>
+         width="45" /> I'm Navneet</h1> 
+
+# Profile Visits 
+
+![Visitor Count](https://profile-counter.glitch.me/{Navneet035}/count.svg)
 	 
-	 
-# 💫 About Me :  [![](https://visitcount.itsvg.in/apiid=Navneet035&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)   ![Visitor Count](https : //profile-counter.glitch.me/{Navneet035}/count.svg)
+## 💫 About Me :  
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning more about ML and AI.
 - 👯 I’m looking to collaborate on any problem related to data science and computer vision.
@@ -33,5 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navneet035&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
